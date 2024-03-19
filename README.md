@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I'm an enthusiastic individual passionate about te
 
 ## 👀 I’m interested in ...
 
-- **Machine Learning**: Solving problems through AI.
-- **Data Science**: Data-driven insights with Python and R.
-- **Open Source**: Enhancing software with my coding skills.
+- **Machine Learning & Data Engineering**: Applying my skills in Python, TensorFlow, and Apache Airflow to solve real-world problems.
+- **Data Visualization**: Enhancing insights through dynamic dashboards with Apache Superset.
+- **Computer Vision**: Crafting cutting-edge applications with TensorFlow and OpenCV.
 
 ## 🌱 I'm currently Learning ...
-- **Apache Airflow**: For data orchestration and analytics.
-- **Machine Learning Frameworks**: Sci-kit Learn, PyTorch, TensorFlow.
-- **Cloud Computing**: AWS and Azure for scalable solutions.
+
+- **Apache Spark & AWS Cloud Services**: Expanding my knowledge in big data and cloud computing for scalable solutions.
+- **Advanced Machine Learning Models**: Focusing on optimization for small datasets and real-time applications.
 
 ## 📫 Connect with me
 Let’s talk tech, collaborate on projects, or just share insights.
