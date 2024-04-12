@@ -22,14 +22,14 @@
 
 </p>
 
-### 👀 Current Interests
-* 🧠 **Machine Learning & Data Engineering**: Utilizing Python, TensorFlow, and Apache Airflow to build solutions.
-* 📊 **Data Visualization**: Creating dynamic dashboards with Apache Superset.
-* 🖼️ **Computer Vision**: Developing applications using TensorFlow and OpenCV.
+### 👀 Expertise & Interests
+* 🧠 **ML & Data Engineering**: Leveraging Python and C++ with TensorFlow and Airflow for innovative solutions.
+* 📊 **Data Viz**: Driving insights using Superset and exploring Rust for data efficiency.
+* 🖼️ **Computer Vision**: Advancing real-time applications with PyTorch, OpenCV, and Rust's robust safety.
 
-### 🌱 I'm Currently Learning
-* ☁️ **Apache Spark & AWS Cloud Services**: To enhance my skills in big data and cloud environments.
-* 🤖 **Advanced Machine Learning Models**: Specializing in optimization for small datasets and real-time processing.
+### 🌱 Current Learning Focus
+* ☁️ **Big Data & Cloud**: Sharpening skills in Apache Spark and AWS for scalable solutions.
+* 🤖 **ML Optimization**: Mastering techniques for enhancing model performance with limited data.
 
 ### 🖥️ Open-Source Projects
 <table>
