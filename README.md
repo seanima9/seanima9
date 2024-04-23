@@ -48,7 +48,6 @@
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv">
     <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-black?style=flat-square">
-    <img alt="C++" src="https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus">
 </td>
 </tr>
 <tr>
