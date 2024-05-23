@@ -68,6 +68,15 @@
     <img alt="APIs" src="https://img.shields.io/badge/APIs-black?style=flat-square&logo=spotify">
 </td>
 </tr>
+<tr>
+<td><a href="https://github.com/seanima9/SysMon">SysMon</a></td>
+<td>A real-time system monitoring tool for CPU, GPU, and memory usage with a graphical interface.</td>
+<td>
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust">
+    <img alt="Ratatui" src="https://img.shields.io/badge/Ratatui-black?style=flat-square">
+    <img alt="Sysinfo" src="https://img.shields.io/badge/Sysinfo-black?style=flat-square">
+</td>
+</tr>
 </table>
 
 ### 📫 How to Reach Me
