@@ -30,13 +30,7 @@
 * 🧠 Machine Learning & Data Engineering: Developing cutting-edge solutions in data processing and model training for complex applications.
 * 📊 Data Visualization: Harnessing powerful tools to translate data into actionable insights and visual representations.
 * 🖼️ Computer Vision: Pioneering in the field to create real-time applications that transform user interaction and data interpretation.
-* 🤖 ML Optimization: Focusing on techniques to maximize the efficiency and effectiveness of models, especially in data-constrained environments.
   
-### 🛠️ Languages & Technologies
-
-* Programming Languages: Python, C++, Rust
-* ML Frameworks: TensorFlow, PyTorch
-* Data Management: Apache Airflow, Apache Spark
 
 ### 🖥️ Open-Source Projects
 <table>
