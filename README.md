@@ -25,12 +25,6 @@
 * 📖 Pursuing BSc in Mathematics @ [Queen Mary University of London](https://www.qmul.ac.uk/).
   
 * 💻 Currently building Neural Networks for specialised image classification
-  
-### 👀 Interests
-* 🧠 Machine Learning & Data Engineering: Developing cutting-edge solutions in data processing and model training for complex applications.
-* 📊 Data Visualization: Harnessing powerful tools to translate data into actionable insights and visual representations.
-* 🖼️ Computer Vision: Pioneering in the field to create real-time applications that transform user interaction and data interpretation.
-  
 
 ### 🖥️ Open-Source Projects
 <table>
