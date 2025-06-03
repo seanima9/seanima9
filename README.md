@@ -1,10 +1,10 @@
 <p align="center">
 <a href="https://github.com/seanima9">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sean+Imani;Undergraduate+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Modelling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sean+Imani;MSc+Finance+%40+UCL+%7C+CFA+Candidate;Quantitative+Research+%7C+Valuation+%7C+Risk+Modelling" alt="Typing SVG" />
 </a>
 <br/>
 
-<a href="https://www.linkedin.com/in/sean-imani-bb48a62a0/">
+<a href="https://www.linkedin.com/in/seanimani/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:imanisean9@gmail.com">
@@ -13,18 +13,18 @@
 <a href="https://github.com/seanima9/resume">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobe">
 </a>
-<!-- Add more badges if needed -->
 
 <br/> 
 <a href="https://github.com/seanima9">
     <img src="https://github-stats-alpha.vercel.app/api?username=seanima9&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-
 </p>
 
-* 📖 Pursuing BSc in Mathematics @ [Queen Mary University of London](https://www.qmul.ac.uk/).
-  
-* 💻 Currently building Neural Networks for specialised image classification
+* 📚 MSc Finance @ [University College London (UCL)](https://www.ucl.ac.uk/), with focus on equity & credit valuation, portfolio construction, and quantitative risk modelling.
+
+* 📈 CFA Level I Candidate | Mathematics BSc
+
+* 💻 Currently developing tools for advanced modelling and risk assessment
 
 ### 🖥️ Open-Source Projects
 <table>
@@ -75,7 +75,6 @@ Let’s connect to talk tech, collaborate on projects, or just share insights. Y
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seanima9&theme=dracula) 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seanima9&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seanima9&theme=dracula)
 
