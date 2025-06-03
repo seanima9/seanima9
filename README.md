@@ -20,7 +20,7 @@
 </a>
 </p>
 
-* 📚 MSc Finance @ [University College London (UCL)](https://www.ucl.ac.uk/), with focus on equity & credit valuation, portfolio construction, and quantitative risk modelling.
+* 📚 MSc Finance @ [University College London (UCL)](https://www.ucl.ac.uk/)
 
 * 📈 CFA Level I Candidate | Mathematics BSc
 
