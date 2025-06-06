@@ -80,6 +80,5 @@ I'm always open to discussing collaborative projects, finance/quant-related role
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seanima9&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seanima9&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seanima9&theme=dracula)
 
 </details>
