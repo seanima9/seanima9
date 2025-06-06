@@ -3,30 +3,25 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sean+Imani;MSc+Finance+%40+UCL+%7C+CFA+Candidate;Quantitative+Research+%7C+Valuation+%7C+Risk+Modelling" alt="Typing SVG" />
 </a>
 <br/>
-
-<a href="https://www.linkedin.com/in/seanimani/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:imanisean9@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="https://github.com/seanima9/resume">
-    <img src="https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobe">
-</a>
-
 <br/> 
 <a href="https://github.com/seanima9">
     <img src="https://github-stats-alpha.vercel.app/api?username=seanima9&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
 
-* 📚 MSc Finance @ [University College London (UCL)](https://www.ucl.ac.uk/)
+---
 
-* 📈 CFA Level I Candidate | Mathematics BSc
+### About Me
 
-* 💻 Currently developing tools for advanced modelling and risk assessment
+* MSc Finance @ [University College London (UCL)](https://www.ucl.ac.uk/)
 
-### 🖥️ Open-Source Projects
+* CFA Level I Candidate | Mathematics BSc
+
+* Currently developing tools for advanced modelling and risk assessment
+
+---
+
+### Open-Source Projects
 <table>
 <tr><th>Title</th><th>Description</th><th>Technologies</th></tr>
 <tr>
@@ -67,11 +62,20 @@
 </tr>
 </table>
 
-### 📫 How to Reach Me
-Let’s connect to talk tech, collaborate on projects, or just share insights. You can also follow me on [LinkedIn](https://www.linkedin.com/in/sean-imani-bb48a62a0/).
+---
+
+### Get in Touch
+
+I'm always open to discussing collaborative projects, finance/quant-related roles, or simply connecting with like-minded professionals.
+
+- [LinkedIn – Sean Imani](https://www.linkedin.com/in/seanimani/)
+- [Resume](https://github.com/seanima9/resume)
+- Feel free to reach out via LinkedIn or email listed in my resume.
+
+---
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary> My GitHub Stats</summary>
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seanima9&theme=dracula) 
