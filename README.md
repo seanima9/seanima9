@@ -1,4 +1,4 @@
-* MSc Finance at [UCL](https://www.ucl.ac.uk/) | BSc Mathematics
+* MSc Finance with Data Science at [UCL](https://www.ucl.ac.uk/) | BSc Mathematics
 * I like deep neural networks.
 
 #### Get in Touch
