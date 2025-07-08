@@ -1,6 +1,7 @@
-MSc Finance with Data Science at [UCL](https://www.ucl.ac.uk/) | BSc Mathematics
+MSc Finance with Data Science at [UCL](https://www.ucl.ac.uk/)
 
-I like deep neural networks.
+I like deep neural networks
 
 #### Get in Touch
-- [LinkedIn – Sean Imani](https://www.linkedin.com/in/seanimani/)
+- [LinkedIn](https://www.linkedin.com/in/seanimani/)
+- [Kaggle](https://www.kaggle.com/seanimani)
